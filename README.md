@@ -13,9 +13,9 @@
 <a href="https://drive.google.com/file/d/1Hufl6iePxCyYeDeZReBamAlvkIh0kFim/view?usp=sharing" target="_blank">Currículo</a>
 
 ### Certificados
-### Certificado CCM Academy
+### Certificado CCM Academy Oracle Data-base
 <a href="https://drive.google.com/file/d/1xWhpCVSaayKQDuTYUeVkKzTs5yZIS7wP/view?usp=sharing" target="_blank">Click Aqui</a>
-### Cisco
+### Cisco IT Essentials
 <a href="https://drive.google.com/file/d/1xjfsYspHdEOzo07rQbkjfE5c2Nbc4SA2/view?usp=sharing" target="_blank">Click Aqui</a>
 
 
