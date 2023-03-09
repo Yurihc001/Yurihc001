@@ -11,6 +11,14 @@
 
 ### Currículo
 <a href="https://drive.google.com/file/d/1Hufl6iePxCyYeDeZReBamAlvkIh0kFim/view?usp=sharing" target="_blank">Currículo</a>
+
+### Certificados
+### Certificado CCM Academy
+<a href="https://drive.google.com/file/d/1xWhpCVSaayKQDuTYUeVkKzTs5yZIS7wP/view?usp=sharing" target="_blank">Click Aqui</a>
+### Cisco
+<a href="https://drive.google.com/file/d/1xjfsYspHdEOzo07rQbkjfE5c2Nbc4SA2/view?usp=sharing" target="_blank">Click Aqui</a>
+
+
     
 
 <!--
