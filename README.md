@@ -11,6 +11,7 @@
 
 ### Currículo
 <a href="https://drive.google.com/file/d/1OBfx1ZcAGVRpTnCXoBT-ZkG7LLoDhO9X/view?usp=sharing" target="_blank">Currículo</a>
+##
 
 ### Certificados
 ##
