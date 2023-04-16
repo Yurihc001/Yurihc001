@@ -10,7 +10,7 @@
 
 
 ### Currículo
-<a href="https://drive.google.com/file/d/1OBfx1ZcAGVRpTnCXoBT-ZkG7LLoDhO9X/view?usp=sharing" target="_blank">Currículo</a>
+<a href="https://drive.google.com/file/d/1ozyYsfYWo9dm-etINyMu1_eyCuUmYBZH/view?usp=sharing" target="_blank">Currículo</a>
 ##
 
 ### Certificados
