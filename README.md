@@ -23,6 +23,9 @@
 ##
 ### Certificado CCM Academy Linux
 <a href="https://drive.google.com/file/d/19YLJ52TSLm8bMjqfIdGVsFG8ktOXnXrb/view?usp=sharing" target="_blank">Click Aqui</a>
+##
+### Certificado SENAI Desvendando o Blockchain
+<a href="https://drive.google.com/file/d/1Be4XQeE5Jd7JxSsv3gkqRv8vKT0s_StP/view?usp=sharing" target="_blank">Click Aqui</a>
 
 
     
